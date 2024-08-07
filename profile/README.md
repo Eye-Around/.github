@@ -1,0 +1,13 @@
+![image](https://github.com/user-attachments/assets/ed06917d-1e96-42d7-9767-35ec6ed9087f)
+![image](https://github.com/user-attachments/assets/9d39bdf6-66d1-45ec-9d65-d101623a9b85)
+
+
+### Service to provide recommended exercise guides & routine through Real time feedback
+
+Haven't your eyes tired from working on your cell phone or computer?
+
+Eye-Around is a service to encourage and help eye exercises for modern people with tired eyes.
+
+You can check out various eye exercises and select your own to create an eye exercise guide for the routine you want!
+
+By logging in, each user can manage their information, achievement rate, guide, etc. on My Page.
